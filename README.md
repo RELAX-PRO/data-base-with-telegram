@@ -51,7 +51,7 @@ Option A (easiest): Create a file `bot_token.txt` in the same folder as `telegra
 
 Option B: Set environment variable (temporary for current PowerShell window):
 ```powershell
-$env:TELEGRAM_BOT_TOKEN = "8452155169:AAGOO285faxdAmAFpCr1Dj2G65hPl55nI38"
+$env:TELEGRAM_BOT_TOKEN = "x"
 ```
 
 ### Run the Bot
